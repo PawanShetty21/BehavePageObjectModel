@@ -1,0 +1,4 @@
+02/15/2022 08:13:48 PM - INFO - objects_function : Inside Test
+02/15/2022 08:13:49 PM - INFO - objects_function : Completed successfully
+02/15/2022 08:14:00 PM - INFO - objects_function : Inside Test
+02/15/2022 08:14:03 PM - INFO - objects_function : Completed successfully

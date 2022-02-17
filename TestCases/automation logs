@@ -1,0 +1,5 @@
+01/22/2022 11:58:54 AM - INFO - LoginPage : Entered Username: admin@yourstore.com
+01/22/2022 11:58:54 AM - INFO - LoginPage : Entered Password: admin
+01/22/2022 11:58:59 AM - INFO - LoginPage : Clicked on login button
+01/22/2022 11:58:59 AM - WARNING - DashboardPage : Title is not matching
+01/22/2022 11:59:01 AM - INFO - DashboardPage : Clicked on logout button
